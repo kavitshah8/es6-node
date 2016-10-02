@@ -1,0 +1,16 @@
+{
+  "name": "es6-node",
+  "version": "1.0.0",
+  "description": "To use ES6 on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "babel-register": "^6.16.3",
+    "express": "^4.14.0"
+  }
+}
